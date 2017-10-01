@@ -1,22 +1,20 @@
 # Алексей Попов
 Мои домашнии задания
 
-[Текст ссылки](адрес "Описание")
+[Урок 4](https://alekseypopow.github.io/lesson_4/ "Описание") - сверстанная книга в html
 
-[Текст ссылки](адрес "Описание")
+[Урок 5](https://alekseypopow.github.io/lesson_5/ "Описание") - сверстанная книга в html и css 
 
-[Текст ссылки](адрес "Описание")
+[Урок 6.1](https://alekseypopow.github.io/lesson_6/project/ "Описание") и [Урок 6.2](https://alekseypopow.github.io/lesson_6/projekt-box/ "Описание") - позиционирование в css 
 
-[Текст ссылки](адрес "Описание")
+[Урок 7](https://alekseypopow.github.io/lesson_7/ "Описание") - верстка первого сайта 
 
-[Текст ссылки](адрес "Описание")
+[Урок 8](https://alekseypopow.github.io/lesson_8/ "Описание") - знакомство с сетками  bootstrap
 
-[Текст ссылки](адрес "Описание")
+[Урок 9](https://alekseypopow.github.io/lesson_9/ "Описание") - верстка сайта с помощью bootstrap
 
-[Текст ссылки](адрес "Описание")
+[Урок 10](https://alekseypopow.github.io/lesson_10/ "Описание") - знакомство с less 
 
-[Текст ссылки](адрес "Описание")
+[Урок 12](https://github.com/alekseyPopow/alekseyPopow.github.io "Описание") - работа с репозиторием на GitHub
 
-[Текст ссылки](адрес "Описание")
 
-[Текст ссылки](адрес "Описание")
