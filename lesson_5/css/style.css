@@ -1,0 +1,28 @@
+ h1 {
+ 	text-align: center;
+ 	color: blue;
+ 	text-transform: uppercase;
+ }
+
+ .caption {
+ 	text-align: center;
+ 	background-color: rgba(0, 18, 255, 0.5);
+ 	border: 2px solid #000;
+ }
+
+span.line-through {
+ 	text-decoration: line-through;
+ }
+
+span.font-weight {
+	 color: normal;
+  font-weight: 900;
+} 
+ 
+ span.underline {
+ 	text-decoration: underline;
+ }
+
+ span.oblique {
+ 	font-style: oblique;
+ }

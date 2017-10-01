@@ -1,0 +1,48 @@
+.body {
+	 background-color:  #D3D3D3;
+}
+
+.box {
+	display: inline-block;
+	background-color: black;
+	position: fixed;
+	height: 50px;
+	width: 100%;
+	top: 0;
+	left: 0;
+}
+
+li {
+	display: inline-block;
+	margin-right: 20px;
+	padding-left: 40px;
+
+}
+
+ul {
+	text-align: right;
+	height: 50px;
+}
+
+a {
+	text-decoration: none;
+	color:  #FFFFFF;
+	padding: 15px 5px 15px 5px;
+	vertical-align: center;
+	
+}
+
+.name {
+	position: relative;
+	display: inline-block;
+	position: absolute;
+	color:  #FFFFFF;
+	margin-left: 50px;
+ vertical-align: center;
+}
+
+.text {
+	display: inline-block;
+	width: 100%;
+	margin-top: 50px;
+}
