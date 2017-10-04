@@ -22,3 +22,5 @@
 [Урок 14](https://alekseypopow.github.io/lesson_14/) - создание шапки
 
 [Урок 14.1](https://alekseypopow.github.io/lesson_14.1/) - подключение шрифтов к сайту
+
+[Урок 14.2](https://alekseypopow.github.io/lesson_14.2/) - подключение шрифтов к сайту (исправленно)
