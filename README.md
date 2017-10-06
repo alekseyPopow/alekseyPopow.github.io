@@ -26,3 +26,5 @@
 [Урок 14.2](https://alekseypopow.github.io/lesson_14.2/) - подключение шрифтов к сайту (исправленно)
 
 [Урок 15](https://alekseypopow.github.io/lesson_15/) - подключение шрифтов к макету, верстка главного экрана
+
+[Урок 16](https://alekseypopow.github.io/lesson_16/) - псевдоклассы и псевдоэлементы
