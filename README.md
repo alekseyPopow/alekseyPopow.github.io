@@ -28,3 +28,5 @@
 [Урок 15](https://alekseypopow.github.io/lesson_15/) - подключение шрифтов к макету, верстка главного экрана
 
 [Урок 16](https://alekseypopow.github.io/lesson_16/) - псевдоклассы и псевдоэлементы
+
+[Урок_16.1](https://alekseypopow.github.io/lesson_16.1/) - адаптивная верстка главного экрана     
