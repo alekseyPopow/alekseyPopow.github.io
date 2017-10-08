@@ -36,3 +36,5 @@
 [Урок_17](http://alekseypopow.github.io/lesson_17/) - слайдер фоторама
 
 [Урок_17.1](https://alekseypopow.github.io/lesson_17.1/) - слайдер фоторама (исправленно)
+
+[Урок_16](https://alekseypopow.github.io/lesson_16/) - добовление слайдера с преимуществами на ссайт
