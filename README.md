@@ -33,7 +33,7 @@
 
 [Урок_16.2](https://alekseypopow.github.io/lesson_16.2/) - псевдоклассы и псевдоэлементы (исправленное домашнее зд)
 
-[Урок_17](http://alekseypopow.github.io/lesson_17/) - слайдер фоторама
+[Урок_17]() - слайдер фоторама
 
 [Урок_17.1](https://alekseypopow.github.io/lesson_17.1/) - слайдер фоторама (исправленно)
 
