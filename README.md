@@ -37,6 +37,6 @@
 
 [Урок_17.1](https://alekseypopow.github.io/lesson_17.1/) - слайдер фоторама (исправленно)
 
-[Урок_18]() - слайдер фоторама
+[Урок_18](https://alekseypopow.github.io/lesson_18/) - модальное окно
 
 
