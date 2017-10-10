@@ -39,4 +39,6 @@
 
 [Урок_18](https://alekseypopow.github.io/lesson_18/inrex.html) - модальное окно
 
+[Урок_18.1](https://alekseypopow.github.io/lesson_18.1/) - подключение модального окна к ссайту
+
 
