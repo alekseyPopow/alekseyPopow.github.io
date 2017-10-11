@@ -41,4 +41,6 @@
 
 [Урок_18.1](https://alekseypopow.github.io/lesson_18.1/) - подключение модального окна к ссайту
 
+[Урок_18.4](https://alekseypopow.github.io/lesson_18.4/) - подключение прайса
+
 
