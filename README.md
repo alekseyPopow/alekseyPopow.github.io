@@ -43,4 +43,6 @@
 
 [Урок_18.4](https://alekseypopow.github.io/lesson_18.4/) - подключение прайса
 
+[Урок_19.1](https://alekseypopow.github.io/lesson_19.1/) - верстка блока с отзывами 
+
 
