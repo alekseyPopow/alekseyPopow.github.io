@@ -47,5 +47,5 @@
 
 [Урок_20](https://alekseypopow.github.io/lesson_20/) - подключение видео к сайту
 
-
+[Урок_20.1](https://alekseypopow.github.io/lesson_20.1/) - доверстал слайдер с отзывами.
 
