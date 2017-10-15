@@ -54,3 +54,5 @@
 [Урок_20.1.1](https://alekseypopow.github.io/lesson_20.1.1/) - доверстал слайдер с отзывами (ИСПРАВЛЕННО)
 
 [Урок_21](https://alekseypopow.github.io/lesson_21/parallax/) - PARALLAX
+
+[Урок_21.1](https://alekseypopow.github.io/lesson_21.1/) - PARALLAX (исправленно)
