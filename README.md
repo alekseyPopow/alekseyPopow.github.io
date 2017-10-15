@@ -41,6 +41,10 @@
 
 [Урок_18.1](https://alekseypopow.github.io/lesson_18.1/) - подключение модального окна к ссайту
 
+[Урок_18.2](https://alekseypopow.github.io/lesson_18.2/src/) - АККАРДЕОН
+
+[Урок_18.3](https://alekseypopow.github.io/lesson_18.3/src/) - ТАБ
+
 [Урок_18.4](https://alekseypopow.github.io/lesson_18.4/) - подключение прайса
 
 [Урок_19.1](https://alekseypopow.github.io/lesson_19.1/) - верстка блока с отзывами 
