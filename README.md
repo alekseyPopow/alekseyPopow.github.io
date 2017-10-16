@@ -47,6 +47,8 @@
 
 [Урок_18.4](https://alekseypopow.github.io/lesson_18.4/) - подключение прайса
 
+[Урок_19.0](https://alekseypopow.github.io/lesson_19.0/) - подключение анимации к форме регистрации
+
 [Урок_19.1](https://alekseypopow.github.io/lesson_19.1/) - верстка блока с отзывами 
 
 [Урок 19.1.2](https://alekseypopow.github.io/lesson_19.1.2/) - верстка блока с отзывами (ИСПРАВЛЕННО)
