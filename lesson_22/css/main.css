@@ -1,0 +1,47 @@
+body {
+  font-family: 'OpenSans';
+}
+.main {
+  text-align: center;
+}
+.main-container {
+  position: absolute;
+  background-color: #c60b0b;
+  width: 380px;
+  height: 400px;
+  margin-top: -400px;
+  margin-left: 80px;
+  z-index: 2;
+}
+.main-container h1 {
+  color: #fff;
+  font-size: 30px;
+  margin-top: 50px;
+  font-weight: 300;
+}
+.main-container p {
+  padding: 10px 0;
+  font-size: 18px;
+  color: #fff;
+  font-weight: 300;
+}
+.main-container a {
+  color: #fff;
+}
+.main-box {
+  text-align: center;
+  margin-top: 20px;
+}
+.main-box-header {
+  font-size: 14px;
+  margin-top: 10px;
+}
+.main-box-adres {
+  margin-top: 0;
+  font-weight: bold;
+  font-size: 24px;
+}
+.main-box-adres p {
+  font-size: 14px;
+  margin-top: 10px;
+}
