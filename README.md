@@ -62,3 +62,5 @@
 [Урок_21](https://alekseypopow.github.io/lesson_21/parallax/) - PARALLAX
 
 [Урок_21.1](https://alekseypopow.github.io/lesson_21.1/) - PARALLAX (исправленно)
+
+[Урок_22](https://alekseypopow.github.io/lesson_22/) - гео-карты на ссайте
