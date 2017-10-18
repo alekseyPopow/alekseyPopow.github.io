@@ -65,4 +65,6 @@
 
 [Урок_21.1](https://alekseypopow.github.io/lesson_21.1/) - PARALLAX (исправленно)
 
+[Урок_21.2](https://alekseypopow.github.io/lesson_21.2/) - верстка схемы работы и все включенно
+
 [Урок_22](https://alekseypopow.github.io/lesson_22/) - гео-карты на ссайте
