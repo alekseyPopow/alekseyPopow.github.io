@@ -70,3 +70,5 @@
 [Урок_22](https://alekseypopow.github.io/lesson_22/) - гео-карты на ссайте
 
 [Урок_22.1](https://alekseypopow.github.io/lesson_22.1/) - верстка блока с проблемами 
+
+[Урок_23](https://alekseypopow.github.io/lesson_23/) - верстка блока материалы
